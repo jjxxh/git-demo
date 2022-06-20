@@ -1,6 +1,6 @@
 hello git!	我修改了一丢丢！
 hello git!	我又修改了一丢丢！
-hello git!
+hello git!	我又又修改了一丢丢！
 hello gif!
 hello gif!	master update
 hello gif!	hot-fix update
