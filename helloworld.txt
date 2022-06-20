@@ -3,4 +3,4 @@ hello git!	我又修改了一丢丢！
 hello git!
 hello gif!
 hello gif!	master update
-hello gif!
+hello gif!	hot-fix update
